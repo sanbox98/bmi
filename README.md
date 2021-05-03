@@ -11,7 +11,3 @@ Handle all by `make`:
 - `make bin`: build all the binaries
 - `make docker`: execute `make bin`, then build the docker images
 - `make k8s`: execute `make docker`, then deploy the newly built image to the kubernetes cluster
-
-# bmi
-# bmi
-# bmi
