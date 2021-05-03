@@ -14,3 +14,4 @@ Handle all by `make`:
 
 # bmi
 # bmi
+# bmi
