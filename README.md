@@ -13,3 +13,4 @@ Handle all by `make`:
 - `make k8s`: execute `make docker`, then deploy the newly built image to the kubernetes cluster
 
 # bmi
+# bmi
